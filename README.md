@@ -1,9 +1,9 @@
 #Steps to run the app
 
-## Make sure you have all the dependacies installed to run a react native application
-#ref to documentation : https://facebook.github.io/react-native/
+## Make sure you have all the dependacies installed to run a react native application\n
+#ref to documentation : https://facebook.github.io/react-native/ \n
 
-#git clone
-#cd AwesomeProject
-#npm instal
-#react-native run-android OR react-native run-ios
+#git clone \n
+#cd AwesomeProject \n
+#npm instal \n
+#react-native run-android OR react-native run-ios \n
